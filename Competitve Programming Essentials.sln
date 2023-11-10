@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear Reccurences and Matrix Exponentiation", "L\L.vcxproj", "{57646397-7541-4531-BC2F-A9A2593B75E3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pigeonhole Principle", "Pigeonhole Principle\Pigeonhole Principle.vcxproj", "{C1B9F512-3755-47C3-AFD1-9D8A491528FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bit Manipulation", "..\Bit Manipulation\Bit Manipulation.vcxproj", "{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Debug|x64.ActiveCfg = Debug|x64
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Debug|x64.Build.0 = Debug|x64
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Debug|x86.Build.0 = Debug|Win32
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Release|x64.ActiveCfg = Release|x64
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Release|x64.Build.0 = Release|x64
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Release|x86.ActiveCfg = Release|Win32
+		{57646397-7541-4531-BC2F-A9A2593B75E3}.Release|x86.Build.0 = Release|Win32
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Debug|x64.ActiveCfg = Debug|x64
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Debug|x64.Build.0 = Debug|x64
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Debug|x86.Build.0 = Debug|Win32
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Release|x64.ActiveCfg = Release|x64
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Release|x64.Build.0 = Release|x64
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Release|x86.ActiveCfg = Release|Win32
+		{C1B9F512-3755-47C3-AFD1-9D8A491528FE}.Release|x86.Build.0 = Release|Win32
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Debug|x64.ActiveCfg = Debug|x64
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Debug|x64.Build.0 = Debug|x64
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Debug|x86.Build.0 = Debug|Win32
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Release|x64.ActiveCfg = Release|x64
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Release|x64.Build.0 = Release|x64
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Release|x86.ActiveCfg = Release|Win32
+		{4DEAE673-77C5-4064-A8EC-7D95CABA83B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33077E46-9FBD-4EC8-B7EE-62A94B64A047}
+	EndGlobalSection
+EndGlobal
